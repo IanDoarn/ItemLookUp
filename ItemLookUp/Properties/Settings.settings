@@ -1,0 +1,39 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ItemLookUp.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="POSTGRES_HOST" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">vsbslgprd01.zmr.zimmer.com</Value>
+    </Setting>
+    <Setting Name="POSTGRES_DATABASE" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">postgres</Value>
+    </Setting>
+    <Setting Name="POSTGRES_PORT" Type="System.String" Scope="User">
+      <Value Profile="(Default)">5432</Value>
+    </Setting>
+    <Setting Name="POSTGRES_USERNAME" Type="System.String" Scope="User">
+      <Value Profile="(Default)">doarni</Value>
+    </Setting>
+    <Setting Name="POSTGRES_PASSWORD" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ZimmerBiomet</Value>
+    </Setting>
+    <Setting Name="ORACLE_HOST" Type="System.String" Scope="User">
+      <Value Profile="(Default)">10.201.221.97</Value>
+    </Setting>
+    <Setting Name="ORACLE_SID" Type="System.String" Scope="User">
+      <Value Profile="(Default)">smsqa</Value>
+    </Setting>
+    <Setting Name="ORACLE_PORT" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1521</Value>
+    </Setting>
+    <Setting Name="ORACLE_USERNAME" Type="System.String" Scope="User">
+      <Value Profile="(Default)">sms_write</Value>
+    </Setting>
+    <Setting Name="ORACLE_PASSWORD" Type="System.String" Scope="User">
+      <Value Profile="(Default)">z2Sms4</Value>
+    </Setting>
+    <Setting Name="AUTOCONNECT" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
